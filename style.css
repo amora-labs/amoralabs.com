@@ -1,0 +1,4 @@
+body {
+  background-color: #401c51;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.3) 1px, transparent 1px), linear-gradient(white 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.3) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.3) 1px, transparent 1px), linear-gradient(transparent 3px, #401c51 3px, #401c51 58px, transparent 58px), linear-gradient(90deg, rgba(255, 255, 255, 0.3) 3px, transparent 3px, transparent 58px, rgba(255, 255, 255, 0.3) 58px);
+  background-size: 15px 15px, 60px 60px, 15px 15px, 60px 60px, 60px 60px, 60px 60px; }
